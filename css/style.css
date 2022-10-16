@@ -160,11 +160,20 @@ footer a { color: cornsilk; }
 
 /* Sprites */
 
-#.sprite palette {
+#sprite-palette {
     display: block;
     width: 40 px;
     height: 40 px; 
     padding: 0;
     border: none;
     background: url('/images/sprite.png') 0 0;
+}
+
+#sprite-guitar {
+    display: block;
+    width: 40 px;
+    height: 40 px;
+    padding: 0;
+    border: none;
+    background: url('images/sprite.png') -40px 0;
 }
