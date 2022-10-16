@@ -161,7 +161,7 @@ footer a { color: cornsilk; }
 /* Sprites */
 
 .sprite-palette {
-    display: block;
+    display: inline-block;
     width: 40 px;
     height: 40 px; 
     padding: 0;
