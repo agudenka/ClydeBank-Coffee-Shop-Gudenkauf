@@ -157,3 +157,14 @@ footer a { color: cornsilk; }
     text-decoration: none;    
 }
 .error-message {display: none;}
+
+/* Sprites */
+
+.sprite palette {
+    display: block;
+    width: 40 px;
+    height: 40 px; 
+    padding: 0;
+    border: none;
+    background: url('..images/sprite.png') 0 0;
+}
