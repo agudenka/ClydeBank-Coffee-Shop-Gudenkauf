@@ -166,7 +166,7 @@ footer a { color: cornsilk; }
     height: 40px;
     padding: 0;
     border: none;
-    background: url('../images/sprite.png') 0 0;
+    background: url('/images/sprite.png') 0 0;
     
 
 .sprite-guitar {
