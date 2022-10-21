@@ -162,12 +162,12 @@ footer a { color: cornsilk; }
 
 .sprite-palette {
     display: inline-block;
-    width: 40 px;
-    height: 40 px; 
+    width: 40px;
+    height: 40px;
     padding: 0;
     border: none;
-    background: url("images/sprite.png") 0 0;
-}
+    background: url('../images/sprite.png') 0 0;
+    
 
 .sprite-guitar {
     display: block;
