@@ -87,6 +87,13 @@ nav li a {
     padding: 10px 10px;
 }
 
+#radial-gradient {
+    width: 300px;
+    height: 300px;
+    background-color: saddlebrown;
+    background-image: radial-gradient(ellipse, saddlebrown, rgb(236, 152, 113));
+}
+
 /* End Header */
 
 /* Footer */
