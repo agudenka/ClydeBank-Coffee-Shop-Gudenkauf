@@ -170,10 +170,10 @@ footer a { color: cornsilk; }
     
 
 .sprite-guitar {
-    display: block;
+    display: inline-block;
     width: 40 px;
     height: 40 px;
     padding: 0;
     border: none;
-    background: url('../images/sprite.png') -40px 0;
+    background: url('/images/sprite.png') -40px 0;
 }
