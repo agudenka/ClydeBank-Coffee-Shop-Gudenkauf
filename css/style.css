@@ -183,7 +183,7 @@ footer a { color: cornsilk; }
     height: 40px;
     padding: 0;
     border: none;
-    background: url('../images/sprite.png') -40px 0;
+    background: url('../images/sprite.png') 40px 0;
 }
 
 .sprite-mask {
@@ -251,6 +251,8 @@ footer a { color: cornsilk; }
 .
 /* End Sprites*/
 
+/*Keyframe Animation*/
+
 #coffeehouse {
     background-image: url("https://otherfiles-cbm.s3-us-west-2.amazonaws.com/CoffeeShopImage.jpg");
     background-size: cover;
@@ -267,3 +269,5 @@ footer a { color: cornsilk; }
     from { background-position: left; }
     to { background-position: right; }
 }
+
+/* End Keyframe Animation*/
