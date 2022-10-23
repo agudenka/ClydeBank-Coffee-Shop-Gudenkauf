@@ -24,6 +24,12 @@ a:hover {
     opacity: 0.95;
 }
 
+a:focus {
+    outline-width: 1px;
+    outline-style: dashed;
+    outline-color: red;
+}
+
 h1, h2, h3, h4, h5, h6, p, a, input, div, textarea, label {
     margin: 0;
 }
@@ -129,12 +135,6 @@ footer a { color: cornsilk; }
 .event-item {
     margin-bottom: 25px;
     border: 1px solid #000
-}
-
-a:focus {
-    outline-width: 1px;
-    outline-style: dashed;
-    outline-color: red;
 }
 
 /* End Page Content */
