@@ -183,7 +183,7 @@ footer a { color: cornsilk; }
     height: 40px;
     padding: 0;
     border: none;
-    background: url('../images/sprite.png') 40px 0;
+    background: url('../images/sprite.png') -40px 0;
 }
 
 .sprite-mask {
