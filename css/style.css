@@ -131,6 +131,12 @@ footer a { color: cornsilk; }
     border: 1px solid #000
 }
 
+a:focus {
+    outline-width: 1px;
+    outline-style: dashed;
+    outline-color: red;
+}
+
 /* End Page Content */
 
 #top-announcement {
