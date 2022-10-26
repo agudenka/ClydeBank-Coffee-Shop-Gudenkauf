@@ -306,11 +306,14 @@ and (max-device-width: 725px) {
     nav ul { padding-top: 7px; }
     nav li { display: inline; }
     nav li a { color: white; }
+
 .menu-item {
     padding-top: 10px;
     padding-bottom: 10px;
 }
+
 .title-item h2 { font-size: 1em; }
+
 .menu-item.additional-items h2 { 
     padding-top: 10px;
     padding-bottom: 10px;
