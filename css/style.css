@@ -255,6 +255,7 @@ footer a { color: cornsilk; }
     border: none;
     background: url('..images/sprite.png') -320px 0;
 }
+
 .sprite-clydebank {
     display: inline-block;
     width: 40px;
