@@ -162,6 +162,7 @@ footer a { color: cornsilk; }
 }
 
 .main-nav li { float: left;}
+
 .main-nav li a {
     display: block;
     color: #EEEEEE;
@@ -254,7 +255,24 @@ footer a { color: cornsilk; }
     border: none;
     background: url('..images/sprite.png') -320px 0;
 }
-.
+.sprite-logo {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    padding: 0;
+    border: none;
+    background: url('..images/sprite.png') -360px 0;
+}
+
+.sprite-mug {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    padding: 0;
+    border: none;
+    background: url('..images/sprite.png') -400px 0;
+}
+
 /* End Sprites*/
 
 /*Keyframe Animation*/
