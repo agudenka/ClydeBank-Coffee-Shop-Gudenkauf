@@ -279,7 +279,7 @@ footer a { color: cornsilk; }
 /*Keyframe Animation*/
 
 #coffeehouse {
-    background-image: url('..images/background.png'); 
+    background-image: url('https://otherfiles-cbm.s3-us-west-2.amazonaws.com/CoffeeShopImage.jpg'); 
     background-size: cover;
     width: 100%;
     height: 250px;
